@@ -50,6 +50,19 @@
 47. Does stereo type also factor of method overloading ?
 48. What is composition, aggregation, association ?
 49. What is generic in Java ?
+50. Access specifier vs Access modifier ?
+51. [S1 = "hello";] vs [S1 = new String("hello");]
+52. What is Dynamic method dispatch ?
+53. What is Single abstract method ?
+54. What is .filter(Predicate<T> pred) ?
+55. What is .map(Function<T, R> mapper) ?
+56. Future vs CompletableFuture ?
+57. What are concerete methods ?
+58. What are Java 1.8 features ?
+59. What is base class ?
+60. Runnable vs Callable ?
+61. Thread vs Runnable ?
+62. What is SimpleDateFormat ? How to convert a format to another ?
 
 ### Springboot
 1. Qualifier vs Primary annotations ?
@@ -65,4 +78,28 @@
 11. What is stateless API ?
 12. What is exchange method ?
 13. Difference between @Component & @Service ?
+14. Value("${name:Anand}");
+15. RequestParam vs PathVariable ?
+16. What is default Eureka port number ?
+17. HTTP vs HTTPS ?
+
+### SQL
+1. How does Full Text Search work ?
+2. What is Partition table ?
+3. What is Indexing ?
+4. can you tell about INNER JOIN ?
+5. Difference between WHERE & HAVING ?
+6. How ORDER BY is being used ?
+7. How is pagination achieved ?
+8. Does PRIMARY KEY or UNIQUE fields accept NULL value ?
+
+### Design Patterns
+
+CREATIONAL | STRUCTURAL | BEHAVIORAL
+--- | --- | --- 
+Singleton | Adapter | Command
+Factory | Flyweight | Template
+Abstract Factory | Decorator 
+Builder | Proxy |
+Prototype | | 
 

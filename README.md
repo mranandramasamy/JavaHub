@@ -91,6 +91,7 @@
 18. How do you handle /get & /getAll APIs together in single route ?
 19. How do we use load balancer ?
 20. How do you secure a REST API ?
+21. Which class will be picked up during @Autowired if there are multiple classes implementing same Interface ?
 
 ### SQL
 1. How does Full Text Search work ?

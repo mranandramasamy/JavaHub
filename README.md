@@ -63,6 +63,12 @@
 60. Runnable vs Callable ?
 61. Thread vs Runnable ?
 62. What is SimpleDateFormat ? How to convert a format to another ?
+63. What is concurrent exception ?
+64. can we have just finally block without exception ?
+65. can exception block be on order first then Arithmetic exception ?
+66. How will you reverse HashSet ?
+67. What is wrapper class ? why do we need Integer over int ?
+68. Can you inherit static method ?
 
 ### Springboot
 1. Qualifier vs Primary annotations ?
@@ -82,6 +88,9 @@
 15. RequestParam vs PathVariable ?
 16. What is default Eureka port number ?
 17. HTTP vs HTTPS ?
+18. How do you handle /get & /getAll APIs together in single route ?
+19. How do we use load balancer ?
+20. How do you secure a REST API ?
 
 ### SQL
 1. How does Full Text Search work ?
@@ -92,6 +101,11 @@
 6. How ORDER BY is being used ?
 7. How is pagination achieved ?
 8. Does PRIMARY KEY or UNIQUE fields accept NULL value ?
+9. What does PRIMARY KEY constraint ensure ?
+10. If a query with JOIN on large tables is too slow, which approach would help first?
+11. Which SQL command is used to remove a table permanently?
+12. Which SQL command is best for renaming a column in a table?
+13. Which SQL function returns the maximum value in a column?
 
 ### Design Patterns
 

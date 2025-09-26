@@ -5,7 +5,7 @@
 2. Time complexity of hashmap
 3. How to create object without new keyword?
 4. What is Copy constructor
-5. Does java support operator overloading ? And whatabout '+' ?
+5. Does java support operator overloading ? And what about '+' ?
 6. What is SCP ? And heap area ?
 7. What is String buffer ?
 8. What is the purpose of Finally Block ?
